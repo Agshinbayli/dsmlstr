@@ -1,7 +1,7 @@
 # ml_project_structure
 
 This package creates a structured machine learning project directory.
-
+```
 ├── .github/
 │   └── workflows/
 │       └── ci.yml
@@ -48,6 +48,7 @@ This package creates a structured machine learning project directory.
 ├── LICENSE
 └── README.md
 
+```
 ## Installation
 
 ```sh
