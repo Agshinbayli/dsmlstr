@@ -1,6 +1,31 @@
 # ml_project_structure
 
-This package creates a structured machine learning project directory.
+Install the Package:
+
+```sh
+pip install -e .
+```
+This will install the dsmlstr package and make the setup_ml_project command available globally.
+
+Run the Script:
+
+now use the package to create the project directory structure; two options to run the script:
+
+Using the command-line tool:
+
+
+```sh
+setup_ml_project
+```
+
+Or running the script directly:
+
+```sh
+python -m ml_project_structure.setup_structure
+```
+
+This will create the specified directory structure in the current working directory.
+
 ```
 ├── .github/
 │   └── workflows/
@@ -47,10 +72,4 @@ This package creates a structured machine learning project directory.
 ├── setup.py
 ├── LICENSE
 └── README.md
-
-```
-## Installation
-
-```sh
-pip install -e .
 
