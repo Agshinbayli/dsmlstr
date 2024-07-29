@@ -1,5 +1,24 @@
 # ml_project_structure
 
+Setup:
+
+Clone the Repository:
+
+Your friend needs to clone the repository from GitHub to their local machine. They can do this by running:
+
+```sh
+git clone https://github.com/AgshinBayli/dsmlstr.git
+
+```
+
+Navigate to the Project Directory:
+
+After cloning the repository, need to navigate into the project directory:
+
+```sh
+cd dsmlstr
+```
+
 Install the Package:
 
 ```sh
