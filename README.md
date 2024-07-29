@@ -2,7 +2,6 @@
 
 This package creates a structured machine learning project directory.
 
-.
 ├── .github/
 │   └── workflows/
 │       └── ci.yml
@@ -48,7 +47,6 @@ This package creates a structured machine learning project directory.
 ├── setup.py
 ├── LICENSE
 └── README.md
-
 
 ## Installation
 
